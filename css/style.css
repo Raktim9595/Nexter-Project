@@ -152,7 +152,7 @@ body {
     .nav-btn::before {
       transform: translateY(-1rem); }
     .nav-btn::after {
-      transform: translateY(-11px); } }
+      transform: translateY(-7px); } }
 
 .header {
   grid-column: full-start/col-end 6;
